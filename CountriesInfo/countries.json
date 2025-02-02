@@ -1,0 +1,49 @@
+{
+  "countries": [
+    {
+      "name": "Austria",
+      "capital": "Vienna",
+      "area": "83,883  sq km",
+      "population": "8,935,112",
+      "currency": "Euro",
+      "flagImage": "austria.png"
+    },
+    {
+      "name": "Germany",
+      "capital": "Berlin",
+      "area": "357,022 sq km",
+      "population": "83,190,556 ",
+      "currency": "Euro",
+      "flagImage": "germany.png"
+    },
+    {
+        "name": "Switzerland",
+        "capital": "None",
+        "area": "41,285 sq km",
+        "population": "8,570,146",
+        "currency": "Swiss franc",
+        "flagImage": "switzerland.png"
+      
+    },
+    {
+        "name": "UK",
+        "capital": "London",
+        "area": "242,495 sq km",
+        "population": "67,545,757",
+        "currency": "Pound sterling",
+        "flagImage": "uk.png"
+      
+    },
+
+    {
+        
+        "name": "US",
+        "capital": "Washington",
+        "area": "53,796,742 sq km",
+        "population": "334,914,895",
+        "currency": "U.S. dollar",
+        "flagImage": "us.png"
+      
+    }
+  ]
+}
